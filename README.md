@@ -83,9 +83,6 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
 </p>
 
-<a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TheSpeedX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
     alt="thespeedx" /></p>
 
