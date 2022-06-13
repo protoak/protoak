@@ -84,3 +84,5 @@ Here are some ideas to get you started:
     alt="thespeedx" /></p>
 
 <br />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=protoak&show_icons=true)
