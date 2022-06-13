@@ -63,14 +63,13 @@ Here are some ideas to get you started:
       width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis" width="40" height="40" /> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
       alt="selenium" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> </p>
 
 <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=protoak&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=protoak&theme=juicyfresh&&title=Stars,Followers,Commit,Repo&no-frame=true"
   width="100%" />
 <br />
 
@@ -85,6 +84,3 @@ Here are some ideas to get you started:
     alt="thespeedx" /></p>
 
 <br />
-
-<a href="https://github.com/TheSpeedX"><img alt="ProtAk's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=TheSpeedX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
